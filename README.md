@@ -25,4 +25,4 @@ A simple REST API for user registration and login built with Node.js.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+   https://github.com/OmidGoorinejad/Node-api-for-registry-and-login.git
